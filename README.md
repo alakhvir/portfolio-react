@@ -1,3 +1,3 @@
 ## React Portfolio Project Alakhvir Singh
 
-## Copy right Alakhvir Singh. All rights rreserved.
+## Copy right Alakhvir Singh. All rights reserved.
